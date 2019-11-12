@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "CE Events"
+  left:
+    - text: "Credentials"
+      href: about.html
+    
+  
+
+   
