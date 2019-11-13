@@ -37,6 +37,8 @@ library(timevis)
 
 ## SUGGESTED ACTIVITIES{.tabset .tabset-fade .tabset-pills}
 
+*Rates valid until December 31st*
+
 ### **Montserrat tour** 
 
 Have you ever heard about Montserrat Abbey? It has a really long history. It was built on 1025! It has almost 1.000 year history. Montserrat Abbey was a strategic zone during the wars on the 17th and 18th century, as well as during the Spanish civil war,  so clergy had to leave the Monastery as it was occuped by the military forces.
